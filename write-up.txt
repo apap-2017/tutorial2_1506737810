@@ -1,0 +1,26 @@
+Latihan Project Hello World
+1. Tidak menimbulkan compile error, namun ketika dibuka localhost:8080/hello muncul tulisan "Whitelabel Error Page"
+
+2. Tidak menimbulkan compile error serta normal ketika dibuka localhost:8080/hello
+
+3. Tidak menimbulkan compile error, namun ketika dibuka localhost:8080/hello muncul tulisan "Whitelabel Error Page"
+
+4. String yang direturn untuk memanggil file html yang ada di folder templates sesuai dengan namanya
+
+Latihan Request Parameter
+1. Error, tidak ada message
+
+2. Normal, tetapi parameter nama menjadi null
+
+3. Normal, name menjadi dunia karena set default nya seperti itu
+
+4. Karena adanya atribut th:text 
+
+Latihan Path Variable
+
+1. Namanya menjadi chanek
+
+1. Namanya menjadi dunia, mengikuti method sebelumnya
+
+a. Namanya menjadi dengklek
+b. Namanya menjadi chanek
